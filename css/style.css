@@ -1,0 +1,13 @@
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+}
+
+.main_content {
+  width: 512px;
+  margin: 0 auto;
+}
